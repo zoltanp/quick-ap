@@ -15,11 +15,11 @@ Usage
 
 Starting:
 
-		sudo sh quick-ap.sh start
+		sudo bash quick-ap.sh start
 
 Stopping:
 
-		sudo sh quick-ap.sh stop
+		sudo bash quick-ap.sh stop
 
 On the client side
 ------------------
